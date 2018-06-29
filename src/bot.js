@@ -152,7 +152,7 @@ class SharpBot extends Client {
     start() {
         if (!this.config) return false;
 
-        this.login(this.config.botToken);
+        this.login('MzY4NzU2Njk0MTE0ODkzODI1.Dfm9wg.fW42_q3Q8U35iPhFNNSodoayTpc');
 
         return true;
     }
