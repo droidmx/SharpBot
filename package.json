@@ -16,7 +16,7 @@
     "sharpbot": "./bin/sharpbot"
   },
   "engines": {
-    "node": ">=8.0.0",
+    "node": "8.0.0",
     "yarn": ">=1.0.0"
   },
   "author": "Rayzr522 <rayzr522@gmail.com>",
