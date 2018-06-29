@@ -92,7 +92,7 @@ class CommandManager {
     }
 
     handleCommand(msg, input) {
-        const prefix = this.bot.config.prefix;
+        const prefix = '?';
         if (!input.startsWith(prefix)) return;
 
         let split = input.substr(prefix.length).trim().split(' ');
